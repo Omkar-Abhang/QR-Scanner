@@ -54,4 +54,4 @@ This project was created to provide an intuitive, user-friendly interface for qu
 ### Steps
 1. Clone this repository:
    ```bash
-   git clone git@github.com:<your-username>/QRScanner.git
+   git clone git@github.com:Omkar-Abhang/QR-Scanner.git
