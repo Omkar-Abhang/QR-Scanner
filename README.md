@@ -61,5 +61,6 @@ This project was created to provide an intuitive, user-friendly interface for qu
 ### Download QRScanner APK via QR Code
 
 Scan the QR code below to download the APK:
-![Uploading frame.png…]()
+![frame](https://github.com/user-attachments/assets/ac0c0329-160f-4d50-bdbe-97ba27b1933a)
+
 
