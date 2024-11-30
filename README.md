@@ -54,4 +54,12 @@ This project was created to provide an intuitive, user-friendly interface for qu
 ### Steps
 1. Clone this repository:
    ```bash
-   git clone git@github.com:Omkar-Abhang/QR-Scanner.git
+   git clone git@github![frame](https://github.com/user-attachments/assets/d4d37933-2815-47e9-b885-908e321dc033)
+.com:Omkar-Abhang/QR-Scanner.git
+
+
+### Download QRScanner APK via QR Code
+
+Scan the QR code below to download the APK:
+![Uploading frame.png…]()
+
